@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhello.a  CMakeFiles/hello.dir/src/hello_module.f90.o
+/usr/bin/ranlib libhello.a

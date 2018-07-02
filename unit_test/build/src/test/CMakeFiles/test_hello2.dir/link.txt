@@ -1,0 +1,1 @@
+/usr/bin/f95    CMakeFiles/test_hello2.dir/test_hello2/test_hello2.f90.o  -o test_hello2 ../../libhello.a 
